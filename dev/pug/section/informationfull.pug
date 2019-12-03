@@ -1,0 +1,12 @@
+section.information
+    .information__wrapper
+        .information__logo-wrp
+            include ../modules/logo
+        .information__content
+            ul.information__list
+                each item in content.informationfull.list
+                    li.information__item( id=item["id"])
+                        a.information__link(href="#")= item["text"]
+        .modal
+            .modal__exit
+            video.modal__video(src="" controls)

@@ -1,0 +1,15 @@
+section.information
+    .information__wrapper
+        .information__fullvers
+            a.information__icon-link(href="full.html")
+                img.information__icon(src="app/img/content/folder.png", alt="Полная версия")
+        .information__logo-wrp
+            include ../modules/logo
+        .information__content
+            ul.information__list
+                each item in content.information.list
+                    li.information__item( id=item["id"])
+                        a.information__link(href="#")= item["text"]
+        .modal
+            .modal__exit
+            video.modal__video(src="" controls)

@@ -1,0 +1,178 @@
+{
+  "information": {
+    "list" : [
+      {
+        "id": "philips_respironics",
+        "text": "Philips Respironics"
+      },
+      {
+        "id": "stephan",
+        "text": "Fritz Stephan GmbH"
+      },
+      {
+        "id": "maico_diagnostic",
+        "text": "Maico Diagnostic GmbH"
+      },
+      {
+        "id": "uzumcu",
+        "text": "Uzumcu"
+      },
+      {
+        "id": "woodway",
+        "text": "Woodway"
+      },
+      {
+        "id": "trimm",
+        "text": "Trimm"
+      }
+    ]
+  },
+  "informationfull": {
+    "list" : [
+      {
+        "id": "philips_respironics",
+        "text": "Philips Respironics"
+      },
+      {
+        "id": "stephan",
+        "text": "Fritz Stephan GmbH"
+      },
+      {
+        "id": "maico_diagnostic",
+        "text": "Maico Diagnostic GmbH"
+      },
+      {
+        "id": "uzumcu",
+        "text": "Uzumcu"
+      },
+      {
+        "id": "woodway",
+        "text": "Woodway"
+      },
+      {
+        "id": "trimm",
+        "text": "Trimm"
+      },
+      {
+        "id": "stephan_flow",
+        "text": "Fritz Stephan Easy Flow"
+      },
+      {
+        "id": "stephan_msea",
+        "text": "Fritz Stephan Military MSEA"
+      },
+      {
+        "id": "stephan_emergency",
+        "text": "Fritz Stephan Emergency ventilator EVE"
+      },
+      {
+        "id": "stephan_sophie",
+        "text": "Fritz Stephan Sophie"
+      },
+      {
+        "id": "herrmann_medozone",
+        "text": "Herrmann Medozone"
+      },
+      {
+        "id": "herrmann_normobaric",
+        "text": "Herrmann normobaric ozone"
+      },
+      {
+        "id": "maico_easytymppro",
+        "text": "Maico easyTympPro"
+      },
+      {
+        "id": "maico_eroscan",
+        "text": "Maico Eroscan"
+      },
+      {
+        "id": "maico_ma42",
+        "text": "Maico Ma42"
+      },
+      {
+        "id": "maico_mb11",
+        "text": "Maico Mb11"
+      },
+      {
+        "id": "maico_touchtymp",
+        "text": "Maico touchTymp"
+      },
+      {
+        "id": "maico_touchtymprace",
+        "text": "Maico touchTymp Race"
+      },
+      {
+        "id": "maico_diagnostic",
+        "text": "Maico diagnostic"
+      },
+      {
+        "id": "philips_125years",
+        "text": "Philips 125 years"
+      },
+      {
+        "id": "philips_coughassistt70",
+        "text": "Philips CoughAssist T70"
+      },
+      {
+        "id": "philips_coughassist",
+        "text": "Philips CoughAssist T70"
+      },
+      {
+        "id": "philips_dreamstationgo",
+        "text": "Philips DreamStationGO"
+      },
+      {
+        "id": "philips_dreamstation",
+        "text": "Philips DreamStation"
+      },
+      {
+        "id": "philips_cpap",
+        "text": "Philips Have CPAP"
+      },
+      {
+        "id": "philips_bipapv30",
+        "text": "Philips BIPAP V30"
+      },
+      {
+        "id": "philips_fit",
+        "text": "Philips Right Fit"
+      },
+      {
+        "id": "philips_sleepcare",
+        "text": "Philips Sleep Care"
+      },
+      {
+        "id": "uzumcu_corporate",
+        "text": "Uzumcu Corporate"
+      },
+      {
+        "id": "uzumcu_jm3f",
+        "text": "Uzumcu JM-3F"
+      },
+      {
+        "id": "uzumcu_novela",
+        "text": "Uzumcu Novela"
+      },
+      {
+        "id": "uzumcu_om8p",
+        "text": "Uzumcu OM-8P"
+      },
+      {
+        "id": "uzumcu_operating",
+        "text": "Uzumcu Operating Room"
+      },
+      {
+        "id": "woodway_difference",
+        "text": "Woodway Difference"
+      },
+      {
+        "id": "woodway_gaittherapy",
+        "text": "Woodway Gait Therapy"
+      },
+      {
+        "id": "woodway_lokohelp",
+        "text": "Woodway LokoHelp"
+      }
+    ]
+  }
+}
